@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Curso: PHP</h1>
+<h1 align="center">Curso: Markdown</h1>
 <h3 align="center" class='lineas'> Este es un curso que encontré en internet, acá voy a ir guardando el código que vaya creando guiándome de los videos </h3>
 </div>
 <hr>
